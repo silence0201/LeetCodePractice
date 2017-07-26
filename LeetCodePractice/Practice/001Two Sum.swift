@@ -26,7 +26,7 @@ import XCTest
 
 class TwoSum {
     
-    class func twoSum0(_ array:[Int], target: Int) ->[Int]? {
+    class func twoSum0(_ array:[Int],_ target: Int) ->[Int]? {
         for (index1,value1) in array.enumerated() {
             for (index2,value2) in array.enumerated() {
                 if value1 + value2 == target {
@@ -37,7 +37,7 @@ class TwoSum {
         return nil
     }
     
-    class func twoSum1 (_ array:[Int], target: Int) ->[Int]? {
+    class func twoSum1 (_ array:[Int],_ target: Int) ->[Int]? {
         var dic = [Int: Int]()
         for (index,num) in array.enumerated() {
             if let lastIndex = dic[target - num] {
@@ -55,24 +55,24 @@ class TwoSumTest: XCTestCase {
     let case2 = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
     
     func testTwoSum0() {
-        let result0 = TwoSum.twoSum0(self.case0, target: 9)!
+        let result0 = TwoSum.twoSum0(self.case0,9)!
         XCTAssert(result0.first == 0 && result0.last == 3, "Error")
         
-        let result1 = TwoSum.twoSum0(self.case1, target: 9)!
+        let result1 = TwoSum.twoSum0(self.case1,9)!
         XCTAssert(result1.first == 0 && result1.last == 1, "Error")
         
-        let result2 = TwoSum.twoSum0(self.case2, target: 9)
+        let result2 = TwoSum.twoSum0(self.case2,9)
         XCTAssert(result2 == nil, "TowSum.twoSum0")
     }
     
     func testTwoSum1() {
-        let result0 = TwoSum.twoSum1(self.case0, target: 9)!
+        let result0 = TwoSum.twoSum1(self.case0,9)!
         XCTAssert(result0.first == 0 && result0.last == 3, "Error")
         
-        let result1 = TwoSum.twoSum1(self.case1, target: 9)!
+        let result1 = TwoSum.twoSum1(self.case1,9)!
         XCTAssert(result1.first == 0 && result1.last == 1, "Error")
         
-        let result2 = TwoSum.twoSum1(self.case2, target: 9)
+        let result2 = TwoSum.twoSum1(self.case2,9)
         XCTAssert(result2 == nil, "TowSum.twoSum0")
     }
 
