@@ -8,12 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		E86A3F991F28DF63007D44F2 /* 001Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A3F981F28DF63007D44F2 /* 001Two Sum.swift */; };
+		E86A3F9B1F28E8A6007D44F2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E86A3F9A1F28E8A6007D44F2 /* README.md */; };
+		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E86A3F901F28DF51007D44F2 /* Practice.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practice.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E86A3F941F28DF51007D44F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E86A3F981F28DF63007D44F2 /* 001Two Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "001Two Sum.swift"; sourceTree = "<group>"; };
+		E86A3F9A1F28E8A6007D44F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E86A3F9C1F28E8AB007D44F2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +34,8 @@
 		E86A3F691F28DE78007D44F2 = {
 			isa = PBXGroup;
 			children = (
+				E86A3F9C1F28E8AB007D44F2 /* LICENSE */,
+				E86A3F9A1F28E8A6007D44F2 /* README.md */,
 				E86A3F911F28DF51007D44F2 /* Practice */,
 				E86A3F751F28DE98007D44F2 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E86A3F9B1F28E8A6007D44F2 /* README.md in Sources */,
 				E86A3F991F28DF63007D44F2 /* 001Two Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +269,7 @@
 				E86A3F971F28DF51007D44F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
