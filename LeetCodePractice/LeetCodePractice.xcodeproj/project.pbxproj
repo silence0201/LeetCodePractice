@@ -12,6 +12,7 @@
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
 		E8E9EA281F2B61F700B522B6 /* 002Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA271F2B61F700B522B6 /* 002Add Two Numbers.swift */; };
 		E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */; };
+		E8E9EA2D1F2B741B00B522B6 /* 003Longest Substring Without Repeating Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA2C1F2B741B00B522B6 /* 003Longest Substring Without Repeating Characters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E86A3F9C1F28E8AB007D44F2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E8E9EA271F2B61F700B522B6 /* 002Add Two Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "002Add Two Numbers.swift"; sourceTree = "<group>"; };
 		E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkNode.swift; sourceTree = "<group>"; };
+		E8E9EA2C1F2B741B00B522B6 /* 003Longest Substring Without Repeating Characters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "003Longest Substring Without Repeating Characters.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E86A3F941F28DF51007D44F2 /* Info.plist */,
 				E86A3F981F28DF63007D44F2 /* 001Two Sum.swift */,
 				E8E9EA271F2B61F700B522B6 /* 002Add Two Numbers.swift */,
+				E8E9EA2C1F2B741B00B522B6 /* 003Longest Substring Without Repeating Characters.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8E9EA281F2B61F700B522B6 /* 002Add Two Numbers.swift in Sources */,
+				E8E9EA2D1F2B741B00B522B6 /* 003Longest Substring Without Repeating Characters.swift in Sources */,
 				E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */,
 				E86A3F9B1F28E8A6007D44F2 /* README.md in Sources */,
 				E86A3F991F28DF63007D44F2 /* 001Two Sum.swift in Sources */,
