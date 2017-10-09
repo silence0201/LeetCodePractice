@@ -1,11 +1,3 @@
-//
-//  003Longest Substring Without Repeating Characters.swift
-//  LeetCodePractice
-//
-//  Created by 杨晴贺 on 2017/7/28.
-//
-//
-
 /*
  * Given a string, find the length of the longest substring without repeating characters.
  *

@@ -1,11 +1,3 @@
-//
-//  001Two Sum.swift
-//  LeetCodePractice
-//
-//  Created by 杨晴贺 on 2017/7/26.
-//
-//
-
 /*
 
 * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
