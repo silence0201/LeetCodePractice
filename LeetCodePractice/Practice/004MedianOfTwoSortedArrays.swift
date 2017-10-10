@@ -17,7 +17,7 @@
 import Foundation
 import XCTest
 
-class Solution {
+class MedianOfTwoSortedArrays{
     class func findMedianSortedArrays(_ nums1: [Int], _ nums2: [Int]) -> Double {
         if (nums1.count + nums2.count) % 2 == 0 {
             let lowerMedian = findInSortedArrays(k: (nums1.count + nums2.count) / 2, nums1: nums1, nums2: nums2)
@@ -60,13 +60,13 @@ class MedianOfTwoSortedArraysTest: XCTestCase {
         let nums1 = [1, 3]
         let nums2 = [2]
         
-        let median1 = Solution.findMedianSortedArrays(nums1, nums2)
+        let median1 = MedianOfTwoSortedArrays.findMedianSortedArrays(nums1, nums2)
         XCTAssertEqual(median1,2.0,"Error")
         
         let nums3 = [1, 2]
         let nums4 = [3, 4]
         
-        let median2 = Solution.findMedianSortedArrays(nums3, nums4)
+        let median2 = MedianOfTwoSortedArrays.findMedianSortedArrays(nums3, nums4)
         XCTAssertEqual(median2,2.5,"Error")
     }
     
