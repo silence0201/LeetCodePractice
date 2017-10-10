@@ -11,8 +11,6 @@
  *
  */
 
-
-import Foundation
 import XCTest
 
 class LongestSubstringWithoutRepeatingCharacters {

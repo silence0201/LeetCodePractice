@@ -7,7 +7,6 @@
  * Output: 7 -> 0 -> 8
  */
 
-import Foundation
 import XCTest
 
 func +(l: LinkNode, r: LinkNode) -> LinkNode {

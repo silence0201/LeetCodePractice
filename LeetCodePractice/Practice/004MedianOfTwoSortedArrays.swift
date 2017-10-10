@@ -14,7 +14,6 @@
  * The median is (2 + 3)/2 = 2.5
  */
 
-import Foundation
 import XCTest
 
 class MedianOfTwoSortedArrays{
