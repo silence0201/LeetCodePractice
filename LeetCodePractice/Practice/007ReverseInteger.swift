@@ -17,7 +17,7 @@ class ReverseInteger {
         
         var result = 0
         while  num > 0 {
-            if result > Int.max{
+            if result > (Int(Int32.max) - num % 10) / 10 {
                 return 0
             }
             
