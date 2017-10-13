@@ -37,5 +37,8 @@ class ReverseIntegerTest: XCTestCase {
         
         let result2 = ReverseInteger().reverse(-123)
         XCTAssertEqual(result2, -321,"Error")
+        
+        let result3 = ReverseInteger().reverse(1534236469)
+        XCTAssertEqual(result3, 0,"Error")
     }
 }
