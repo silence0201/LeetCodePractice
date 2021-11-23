@@ -2,7 +2,7 @@
 //  LinkNode.swift
 //  LeetCodePractice
 //
-//  Created by 杨晴贺 on 2017/7/28.
+//  Created by Silence on 2017/7/28.
 //
 //
 
