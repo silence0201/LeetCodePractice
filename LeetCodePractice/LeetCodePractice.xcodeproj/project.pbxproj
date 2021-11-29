@@ -13,6 +13,7 @@
 		E823B03B274FF178007FE15C /* 700SearchBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B03A274FF178007FE15C /* 700SearchBST.swift */; };
 		E823B03D274FF430007FE15C /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B03C274FF430007FE15C /* TreeNode.swift */; };
 		E823B045274FFD52007FE15C /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B044274FFD52007FE15C /* StringExtension.swift */; };
+		E823B04727551A17007FE15C /* 786KthSmallestPrimeFraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B04627551A17007FE15C /* 786KthSmallestPrimeFraction.swift */; };
 		E85F2AAC1F8E58DF0020A2FF /* 002AddTwo Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AA91F8E58DF0020A2FF /* 002AddTwo Numbers.swift */; };
 		E85F2AAE1F8E58DF0020A2FF /* 001TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AAB1F8E58DF0020A2FF /* 001TwoSum.swift */; };
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
@@ -26,6 +27,7 @@
 		E823B03A274FF178007FE15C /* 700SearchBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 700SearchBST.swift; sourceTree = "<group>"; };
 		E823B03C274FF430007FE15C /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		E823B044274FFD52007FE15C /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		E823B04627551A17007FE15C /* 786KthSmallestPrimeFraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 786KthSmallestPrimeFraction.swift; sourceTree = "<group>"; };
 		E85F2AA91F8E58DF0020A2FF /* 002AddTwo Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "002AddTwo Numbers.swift"; sourceTree = "<group>"; };
 		E85F2AAB1F8E58DF0020A2FF /* 001TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 001TwoSum.swift; sourceTree = "<group>"; };
 		E86A3F901F28DF51007D44F2 /* Practice.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practice.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +77,7 @@
 				E823B036274E9C5F007FE15C /* 458PoorPigs.swift */,
 				E823B038274FD3FB007FE15C /* 005LongestPalindrome.swift */,
 				E823B03A274FF178007FE15C /* 700SearchBST.swift */,
+				E823B04627551A17007FE15C /* 786KthSmallestPrimeFraction.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				E823B045274FFD52007FE15C /* StringExtension.swift in Sources */,
 				E823B033274E8665007FE15C /* 077Combine.swift in Sources */,
 				E85F2AAC1F8E58DF0020A2FF /* 002AddTwo Numbers.swift in Sources */,
+				E823B04727551A17007FE15C /* 786KthSmallestPrimeFraction.swift in Sources */,
 				E823B03D274FF430007FE15C /* TreeNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
