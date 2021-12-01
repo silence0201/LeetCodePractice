@@ -19,6 +19,7 @@
 		E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AAB1F8E58DF0020A2FF /* 0001TwoSum.swift */; };
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
 		E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */; };
+		E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E86A3F9A1F28E8A6007D44F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E86A3F9C1F28E8AB007D44F2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkNode.swift; sourceTree = "<group>"; };
+		E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0400FindNthDigit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				E823B03A274FF178007FE15C /* 0700SearchBST.swift */,
 				E823B04627551A17007FE15C /* 0786KthSmallestPrimeFraction.swift */,
 				E823B04A2757BB5C007FE15C /* 1446MaxPower.swift */,
+				E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E823B037274E9C5F007FE15C /* 0458PoorPigs.swift in Sources */,
+				E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */,
 				E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */,
 				E823B03B274FF178007FE15C /* 0700SearchBST.swift in Sources */,
 				E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */,
