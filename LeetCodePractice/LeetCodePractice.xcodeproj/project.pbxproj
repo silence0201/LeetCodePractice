@@ -23,6 +23,8 @@
 		E8EBE5C12757E3B000CE5FAD /* Offer33VerifyPostorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C02757E3B000CE5FAD /* Offer33VerifyPostorder.swift */; };
 		E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C22757E72D00CE5FAD /* 506FindRelativeRanks.swift */; };
 		E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */; };
+		E8EBE5C7275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */; };
+		E8EBE5C9275A82AE00CE5FAD /* 0383CanConstruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +47,8 @@
 		E8EBE5C02757E3B000CE5FAD /* Offer33VerifyPostorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer33VerifyPostorder.swift; sourceTree = "<group>"; };
 		E8EBE5C22757E72D00CE5FAD /* 506FindRelativeRanks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 506FindRelativeRanks.swift; sourceTree = "<group>"; };
 		E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer34PathSum.swift; sourceTree = "<group>"; };
+		E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1005LargestSumAfterKNegations.swift; sourceTree = "<group>"; };
+		E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0383CanConstruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,8 @@
 				E8EBE5C02757E3B000CE5FAD /* Offer33VerifyPostorder.swift */,
 				E8EBE5C22757E72D00CE5FAD /* 506FindRelativeRanks.swift */,
 				E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */,
+				E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */,
+				E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -177,11 +183,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8EBE5C7275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift in Sources */,
 				E823B037274E9C5F007FE15C /* 0458PoorPigs.swift in Sources */,
 				E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */,
 				E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */,
 				E823B03B274FF178007FE15C /* 0700SearchBST.swift in Sources */,
 				E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */,
+				E8EBE5C9275A82AE00CE5FAD /* 0383CanConstruct.swift in Sources */,
 				E823B04B2757BB5C007FE15C /* 1446MaxPower.swift in Sources */,
 				E823B039274FD3FB007FE15C /* 0005LongestPalindrome.swift in Sources */,
 				E823B045274FFD52007FE15C /* StringExtension.swift in Sources */,
