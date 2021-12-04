@@ -25,6 +25,8 @@
 		E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */; };
 		E8EBE5C7275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */; };
 		E8EBE5C9275A82AE00CE5FAD /* 0383CanConstruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */; };
+		E8EBE5CB275B57DF00CE5FAD /* Offer45MinNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5CA275B57DF00CE5FAD /* Offer45MinNumber.swift */; };
+		E8EBE5CD275B861900CE5FAD /* Offer46TranslateNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5CC275B861900CE5FAD /* Offer46TranslateNum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +51,8 @@
 		E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer34PathSum.swift; sourceTree = "<group>"; };
 		E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1005LargestSumAfterKNegations.swift; sourceTree = "<group>"; };
 		E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0383CanConstruct.swift; sourceTree = "<group>"; };
+		E8EBE5CA275B57DF00CE5FAD /* Offer45MinNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer45MinNumber.swift; sourceTree = "<group>"; };
+		E8EBE5CC275B861900CE5FAD /* Offer46TranslateNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer46TranslateNum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 				E8EBE5C42759151100CE5FAD /* Offer34PathSum.swift */,
 				E8EBE5C6275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift */,
 				E8EBE5C8275A82AE00CE5FAD /* 0383CanConstruct.swift */,
+				E8EBE5CA275B57DF00CE5FAD /* Offer45MinNumber.swift */,
+				E8EBE5CC275B861900CE5FAD /* Offer46TranslateNum.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -186,7 +192,9 @@
 				E8EBE5C7275926CA00CE5FAD /* 1005LargestSumAfterKNegations.swift in Sources */,
 				E823B037274E9C5F007FE15C /* 0458PoorPigs.swift in Sources */,
 				E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */,
+				E8EBE5CB275B57DF00CE5FAD /* Offer45MinNumber.swift in Sources */,
 				E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */,
+				E8EBE5CD275B861900CE5FAD /* Offer46TranslateNum.swift in Sources */,
 				E823B03B274FF178007FE15C /* 0700SearchBST.swift in Sources */,
 				E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */,
 				E8EBE5C9275A82AE00CE5FAD /* 0383CanConstruct.swift in Sources */,
