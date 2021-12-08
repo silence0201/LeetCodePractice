@@ -30,6 +30,7 @@
 		E8EBE5CF275C587F00CE5FAD /* 0372SuperPow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5CE275C587F00CE5FAD /* 0372SuperPow.swift */; };
 		E8EBE5D1275E60D800CE5FAD /* Offer09CQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5D0275E60D800CE5FAD /* Offer09CQueue.swift */; };
 		E8EBE5D3275E626E00CE5FAD /* Offer30MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5D2275E626E00CE5FAD /* Offer30MinStack.swift */; };
+		E8EBE5D52760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5D42760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		E8EBE5CE275C587F00CE5FAD /* 0372SuperPow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0372SuperPow.swift; sourceTree = "<group>"; };
 		E8EBE5D0275E60D800CE5FAD /* Offer09CQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer09CQueue.swift; sourceTree = "<group>"; };
 		E8EBE5D2275E626E00CE5FAD /* Offer30MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer30MinStack.swift; sourceTree = "<group>"; };
+		E8EBE5D42760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0689MaxSumOfThreeSubarrays.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				E8EBE5CE275C587F00CE5FAD /* 0372SuperPow.swift */,
 				E8EBE5D0275E60D800CE5FAD /* Offer09CQueue.swift */,
 				E8EBE5D2275E626E00CE5FAD /* Offer30MinStack.swift */,
+				E8EBE5D42760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				E85F2AAC1F8E58DF0020A2FF /* 0002AddTwo Numbers.swift in Sources */,
 				E823B04727551A17007FE15C /* 0786KthSmallestPrimeFraction.swift in Sources */,
 				E823B03D274FF430007FE15C /* TreeNode.swift in Sources */,
+				E8EBE5D52760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift in Sources */,
 				E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */,
 				E8EBE5C12757E3B000CE5FAD /* Offer33VerifyPostorder.swift in Sources */,
 				E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */,
