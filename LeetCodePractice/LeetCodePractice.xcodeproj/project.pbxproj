@@ -20,6 +20,7 @@
 		E85F2AAC1F8E58DF0020A2FF /* 0002AddTwo Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AA91F8E58DF0020A2FF /* 0002AddTwo Numbers.swift */; };
 		E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AAB1F8E58DF0020A2FF /* 0001TwoSum.swift */; };
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
+		E88965502768E7D5002DAF94 /* 0630ScheduleCourse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */; };
 		E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */; };
 		E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */; };
 		E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */; };
@@ -53,6 +54,7 @@
 		E86A3F941F28DF51007D44F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E86A3F9A1F28E8A6007D44F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E86A3F9C1F28E8AB007D44F2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0630ScheduleCourse.swift; sourceTree = "<group>"; };
 		E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer47MaxValue.swift; sourceTree = "<group>"; };
 		E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkNode.swift; sourceTree = "<group>"; };
 		E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0400FindNthDigit.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				E804FB7027625E3800C3698F /* 0794ValidTicTacToe.swift */,
 				E804FB722763986400C3698F /* 0748ShortestCompletingWord.swift */,
 				E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */,
+				E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				E8EBE5CD275B861900CE5FAD /* Offer46TranslateNum.swift in Sources */,
 				E8EBE5CF275C587F00CE5FAD /* 0372SuperPow.swift in Sources */,
 				E823B03B274FF178007FE15C /* 0700SearchBST.swift in Sources */,
+				E88965502768E7D5002DAF94 /* 0630ScheduleCourse.swift in Sources */,
 				E8EBE5D1275E60D800CE5FAD /* Offer09CQueue.swift in Sources */,
 				E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */,
 				E8EBE5C9275A82AE00CE5FAD /* 0383CanConstruct.swift in Sources */,
