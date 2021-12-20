@@ -20,6 +20,7 @@
 		E85F2AAC1F8E58DF0020A2FF /* 0002AddTwo Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AA91F8E58DF0020A2FF /* 0002AddTwo Numbers.swift */; };
 		E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AAB1F8E58DF0020A2FF /* 0001TwoSum.swift */; };
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
+		E86F2C4A2770D2E9009F54D0 /* 0475FindRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86F2C492770D2E9009F54D0 /* 0475FindRadius.swift */; };
 		E88965502768E7D5002DAF94 /* 0630ScheduleCourse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */; };
 		E8B83879276C472F005DCEC1 /* 1518NumWaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B83878276C472F005DCEC1 /* 1518NumWaterBottles.swift */; };
 		E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */; };
@@ -55,6 +56,7 @@
 		E86A3F941F28DF51007D44F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E86A3F9A1F28E8A6007D44F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E86A3F9C1F28E8AB007D44F2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E86F2C492770D2E9009F54D0 /* 0475FindRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0475FindRadius.swift; sourceTree = "<group>"; };
 		E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0630ScheduleCourse.swift; sourceTree = "<group>"; };
 		E8B83878276C472F005DCEC1 /* 1518NumWaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1518NumWaterBottles.swift; sourceTree = "<group>"; };
 		E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer47MaxValue.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */,
 				E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */,
 				E8B83878276C472F005DCEC1 /* 1518NumWaterBottles.swift */,
+				E86F2C492770D2E9009F54D0 /* 0475FindRadius.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				E823B04727551A17007FE15C /* 0786KthSmallestPrimeFraction.swift in Sources */,
 				E823B03D274FF430007FE15C /* TreeNode.swift in Sources */,
 				E8EBE5D52760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift in Sources */,
+				E86F2C4A2770D2E9009F54D0 /* 0475FindRadius.swift in Sources */,
 				E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */,
 				E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */,
 				E8EBE5C12757E3B000CE5FAD /* Offer33VerifyPostorder.swift in Sources */,
