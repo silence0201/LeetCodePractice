@@ -19,7 +19,7 @@
 
 import XCTest
 
-class Solution {
+class Solution1078 {
     func findOcurrences(_ text: String, _ first: String, _ second: String) -> [String] {
         let subString = text.components(separatedBy: " ")
         

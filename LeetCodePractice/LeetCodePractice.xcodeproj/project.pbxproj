@@ -40,6 +40,7 @@
 		E8F8402B27737CF4002CA50B /* 0686RepeatedStringMatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8402A27737CF4002CA50B /* 0686RepeatedStringMatch.swift */; };
 		E8F8402D277848D8002CA50B /* 0022GenerateParenthesis.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8402C277848D8002CA50B /* 0022GenerateParenthesis.swift */; };
 		E8F8402F2778588D002CA50B /* 1078FindOcurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */; };
+		E8F84031277866C9002CA50B /* 0011MaxArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F84030277866C9002CA50B /* 0011MaxArea.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		E8F8402A27737CF4002CA50B /* 0686RepeatedStringMatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0686RepeatedStringMatch.swift; sourceTree = "<group>"; };
 		E8F8402C277848D8002CA50B /* 0022GenerateParenthesis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0022GenerateParenthesis.swift; sourceTree = "<group>"; };
 		E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1078FindOcurrences.swift; sourceTree = "<group>"; };
+		E8F84030277866C9002CA50B /* 0011MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0011MaxArea.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				E8F8402A27737CF4002CA50B /* 0686RepeatedStringMatch.swift */,
 				E8F8402C277848D8002CA50B /* 0022GenerateParenthesis.swift */,
 				E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */,
+				E8F84030277866C9002CA50B /* 0011MaxArea.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				E8F8402F2778588D002CA50B /* 1078FindOcurrences.swift in Sources */,
 				E804FB7127625E3800C3698F /* 0794ValidTicTacToe.swift in Sources */,
 				E8B83879276C472F005DCEC1 /* 1518NumWaterBottles.swift in Sources */,
+				E8F84031277866C9002CA50B /* 0011MaxArea.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
