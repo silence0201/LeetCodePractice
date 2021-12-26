@@ -16,7 +16,7 @@
 
 import XCTest
 
-class Solution53 {
+class SolutionOffer53 {
     func search(_ nums: [Int], _ target: Int) -> Int {
         var res = 0
         for num in nums {

@@ -42,6 +42,8 @@
 		E8F8402F2778588D002CA50B /* 1078FindOcurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */; };
 		E8F84031277866C9002CA50B /* 0011MaxArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F84030277866C9002CA50B /* 0011MaxArea.swift */; };
 		E8F8403327786C57002CA50B /* Offer53Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8403227786C57002CA50B /* Offer53Search.swift */; };
+		E8F8403527786D5E002CA50B /* Offer53MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8403427786D5E002CA50B /* Offer53MissingNumber.swift */; };
+		E8F8403727789958002CA50B /* 0146LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F8403627789958002CA50B /* 0146LRUCache.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +85,8 @@
 		E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1078FindOcurrences.swift; sourceTree = "<group>"; };
 		E8F84030277866C9002CA50B /* 0011MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0011MaxArea.swift; sourceTree = "<group>"; };
 		E8F8403227786C57002CA50B /* Offer53Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer53Search.swift; sourceTree = "<group>"; };
+		E8F8403427786D5E002CA50B /* Offer53MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer53MissingNumber.swift; sourceTree = "<group>"; };
+		E8F8403627789958002CA50B /* 0146LRUCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0146LRUCache.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +154,8 @@
 				E8F8402E2778588D002CA50B /* 1078FindOcurrences.swift */,
 				E8F84030277866C9002CA50B /* 0011MaxArea.swift */,
 				E8F8403227786C57002CA50B /* Offer53Search.swift */,
+				E8F8403427786D5E002CA50B /* Offer53MissingNumber.swift */,
+				E8F8403627789958002CA50B /* 0146LRUCache.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -261,10 +267,12 @@
 				E86F2C4A2770D2E9009F54D0 /* 0475FindRadius.swift in Sources */,
 				E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */,
 				E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */,
+				E8F8403727789958002CA50B /* 0146LRUCache.swift in Sources */,
 				E8EBE5C12757E3B000CE5FAD /* Offer33VerifyPostorder.swift in Sources */,
 				E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */,
 				E8EBE5D3275E626E00CE5FAD /* Offer30MinStack.swift in Sources */,
 				E8F8402F2778588D002CA50B /* 1078FindOcurrences.swift in Sources */,
+				E8F8403527786D5E002CA50B /* Offer53MissingNumber.swift in Sources */,
 				E804FB7127625E3800C3698F /* 0794ValidTicTacToe.swift in Sources */,
 				E8B83879276C472F005DCEC1 /* 1518NumWaterBottles.swift in Sources */,
 				E8F84031277866C9002CA50B /* 0011MaxArea.swift in Sources */,
