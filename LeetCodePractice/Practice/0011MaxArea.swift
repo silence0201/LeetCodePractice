@@ -55,4 +55,18 @@ class Solution11Test: XCTestCase {
         let result = Solution11().maxArea(height)
         XCTAssertEqual(ans, result)
     }
+    
+    func testmaxArea02() {
+        let height = [4,3,2,1,4]
+        let ans = 16
+        let result = Solution11().maxArea(height)
+        XCTAssertEqual(ans, result)
+    }
+    
+    func testmaxArea03() {
+        let height = [1,2,1]
+        let ans = 2
+        let result = Solution11().maxArea(height)
+        XCTAssertEqual(ans, result)
+    }
 }
