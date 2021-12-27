@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E804FB7127625E3800C3698F /* 0794ValidTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E804FB7027625E3800C3698F /* 0794ValidTicTacToe.swift */; };
 		E804FB732763986400C3698F /* 0748ShortestCompletingWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = E804FB722763986400C3698F /* 0748ShortestCompletingWord.swift */; };
+		E80F5150277A12080036574F /* 0825NumFriendRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80F514F277A12080036574F /* 0825NumFriendRequests.swift */; };
 		E823B033274E8665007FE15C /* 0077Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B032274E8665007FE15C /* 0077Combine.swift */; };
 		E823B037274E9C5F007FE15C /* 0458PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B036274E9C5F007FE15C /* 0458PoorPigs.swift */; };
 		E823B039274FD3FB007FE15C /* 0005LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = E823B038274FD3FB007FE15C /* 0005LongestPalindrome.swift */; };
@@ -49,6 +50,7 @@
 /* Begin PBXFileReference section */
 		E804FB7027625E3800C3698F /* 0794ValidTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0794ValidTicTacToe.swift; sourceTree = "<group>"; };
 		E804FB722763986400C3698F /* 0748ShortestCompletingWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0748ShortestCompletingWord.swift; sourceTree = "<group>"; };
+		E80F514F277A12080036574F /* 0825NumFriendRequests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0825NumFriendRequests.swift; sourceTree = "<group>"; };
 		E823B032274E8665007FE15C /* 0077Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0077Combine.swift; sourceTree = "<group>"; };
 		E823B036274E9C5F007FE15C /* 0458PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0458PoorPigs.swift; sourceTree = "<group>"; };
 		E823B038274FD3FB007FE15C /* 0005LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0005LongestPalindrome.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				E8F8403227786C57002CA50B /* Offer53Search.swift */,
 				E8F8403427786D5E002CA50B /* Offer53MissingNumber.swift */,
 				E8F8403627789958002CA50B /* 0146LRUCache.swift */,
+				E80F514F277A12080036574F /* 0825NumFriendRequests.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				E86F2C4A2770D2E9009F54D0 /* 0475FindRadius.swift in Sources */,
 				E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */,
 				E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */,
+				E80F5150277A12080036574F /* 0825NumFriendRequests.swift in Sources */,
 				E8F8403727789958002CA50B /* 0146LRUCache.swift in Sources */,
 				E8EBE5C12757E3B000CE5FAD /* Offer33VerifyPostorder.swift in Sources */,
 				E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */,
