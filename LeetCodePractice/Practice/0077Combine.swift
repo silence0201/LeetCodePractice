@@ -32,29 +32,32 @@ class Solution077 {
         }
         
         var result = [[Int]]()
-        backtracking(1, n, k, [Int](), &result)
+        
+        func backtracking(_ start: Int, _ end: Int, _ k: Int, _ add: [Int]) {
+            if (k == 0) {
+                result.append(add);
+                return
+            }
+            
+            // n = 4, k = 2
+            // 第一层  1,2,3
+            for i in start...(end-k+1) {
+                var tmp = add
+                tmp.append(i)
+                
+                // 第二层
+                // 1 -> 2,3,4
+                // 2 -> 3,4
+                // 3 -> 4
+                backtracking(i+1, end, k-1, tmp)
+            }
+        }
+        
+        backtracking(1, n, k, [])
         return result
     }
     
-    func backtracking(_ start: Int, _ end: Int, _ k: Int, _ add: [Int], _ result: inout [[Int]]) {
-        if (k == 0) {
-            result.append(add);
-            return
-        }
-        
-        // n = 4, k = 2
-        // 第一层  1,2,3
-        for i in start...(end-k+1) {
-            var tmp = add
-            tmp.append(i)
-            
-            // 第二层
-            // 1 -> 2,3,4
-            // 2 -> 3,4
-            // 3 -> 4
-            backtracking(i+1, end, k-1, tmp, &result)
-        }
-    }
+
 }
 
 class Solution077Test: XCTestCase {

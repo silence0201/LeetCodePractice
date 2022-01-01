@@ -39,14 +39,14 @@ import XCTest
 // 1. ages[y] <= ages[x] < (ages[y] - 7) * 2 && ages[y] <= 100
 // 2. 0.5 * ages[x] + 7 < ages[y] <= ages[x] && ages[x] >= 100
 
-class Solution {
+class Solution825 {
     func numFriendRequests(_ ages: [Int]) -> Int {
         let ages = ages.sorted()
         
         var left = 0
         var right = 0
         var ans = 0
-        
+    
         let count = ages.count
         
         for age in ages {
