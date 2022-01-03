@@ -9,38 +9,42 @@
 
 import XCTest
 
+class Solution2 {
+    func addTwoNumbers(_ l1: LinkNode?, _ l2: LinkNode?) -> LinkNode? {
+        var link1 = l1
+        var link2 = l2
+        
+        let result = LinkNode()
+        
+        var current = result
+        var sum = 0
+        
+        while link1 != nil || link2 != nil {
+            if let link = link1 {
+                sum += link.value
+                link1 = link.next
+            }
+            
+            if let link = link2 {
+                sum += link.value
+                link2 = link.next
+            }
+            
+            
+            current.next = LinkNode(sum % 10)
+            sum /= 10
+            current = current.next!
+        }
+        
+        if (sum > 0) {
+            current.next = LinkNode(sum % 10)
+        }
+        return result.next
+    }
+}
+
 func +(l: LinkNode, r: LinkNode) -> LinkNode {
-    var link0: LinkNode? = l
-    var link1: LinkNode? = r
-    
-    let result = LinkNode()
-    var current = result
-    var sum = 0
-    
-    while  link0 != nil || link1 != nil{
-        sum /= 10
-        
-        if let link = link0 {
-            sum += link.value
-            link0 = link.next
-        }
-        
-        if let link = link1 {
-            sum += link.value
-            link1 = link.next
-        }
-        
-        // 移到下一个
-        current.next = LinkNode(sum % 10)
-        current = current.next!
-    }
-    
-    // 如果上一个节点大于10
-    if sum / 10 > 0{
-        current.next = LinkNode(1)
-    }
-    
-    return result.next!
+    return Solution2().addTwoNumbers(l, r) ?? LinkNode(0)
 }
 
 class AddTwoNumbersTest: XCTestCase {
