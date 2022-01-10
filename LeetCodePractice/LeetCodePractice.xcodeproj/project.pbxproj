@@ -23,6 +23,13 @@
 		E840C79F2789E71A007BFB33 /* 0092ReverseBetween.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C79E2789E71A007BFB33 /* 0092ReverseBetween.swift */; };
 		E840C7A12789E729007BFB33 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7A02789E729007BFB33 /* ListNode.swift */; };
 		E840C7A3278B37B6007BFB33 /* 1629SlowestKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7A2278B37B6007BFB33 /* 1629SlowestKey.swift */; };
+		E840C7A5278C85CD007BFB33 /* 0306IsAdditiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7A4278C85CD007BFB33 /* 0306IsAdditiveNumber.swift */; };
+		E840C7A7278C8B78007BFB33 /* Offer11MinArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7A6278C8B78007BFB33 /* Offer11MinArray.swift */; };
+		E840C7A9278C9313007BFB33 /* Offer50FirstUniqChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7A8278C9313007BFB33 /* Offer50FirstUniqChar.swift */; };
+		E840C7AB278C9506007BFB33 /* Offer32LevelOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7AA278C9506007BFB33 /* Offer32LevelOrder.swift */; };
+		E840C7AD278C98CF007BFB33 /* Offer10Fib.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7AC278C98CF007BFB33 /* Offer10Fib.swift */; };
+		E840C7AF278C9B2C007BFB33 /* Offer10NumWays.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7AE278C9B2C007BFB33 /* Offer10NumWays.swift */; };
+		E840C7B1278C9EE8007BFB33 /* Offer63MaxProfit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E840C7B0278C9EE8007BFB33 /* Offer63MaxProfit.swift */; };
 		E85F2AAC1F8E58DF0020A2FF /* 0002AddTwo Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AA91F8E58DF0020A2FF /* 0002AddTwo Numbers.swift */; };
 		E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E85F2AAB1F8E58DF0020A2FF /* 0001TwoSum.swift */; };
 		E86A3F9D1F28E8AB007D44F2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E86A3F9C1F28E8AB007D44F2 /* LICENSE */; };
@@ -42,6 +49,7 @@
 		E87A7CBF2784AA25009A9511 /* 1576ModifyString.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87A7CBE2784AA25009A9511 /* 1576ModifyString.swift */; };
 		E88965502768E7D5002DAF94 /* 0630ScheduleCourse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */; };
 		E8B83879276C472F005DCEC1 /* 1518NumWaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B83878276C472F005DCEC1 /* 1518NumWaterBottles.swift */; };
+		E8C7A81E278CA279001A31C3 /* Offer26IsSubStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C7A81D278CA279001A31C3 /* Offer26IsSubStructure.swift */; };
 		E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */; };
 		E8E9EA2B1F2B62EB00B522B6 /* LinkNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */; };
 		E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */; };
@@ -83,6 +91,13 @@
 		E840C79E2789E71A007BFB33 /* 0092ReverseBetween.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0092ReverseBetween.swift; sourceTree = "<group>"; };
 		E840C7A02789E729007BFB33 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		E840C7A2278B37B6007BFB33 /* 1629SlowestKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1629SlowestKey.swift; sourceTree = "<group>"; };
+		E840C7A4278C85CD007BFB33 /* 0306IsAdditiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0306IsAdditiveNumber.swift; sourceTree = "<group>"; };
+		E840C7A6278C8B78007BFB33 /* Offer11MinArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer11MinArray.swift; sourceTree = "<group>"; };
+		E840C7A8278C9313007BFB33 /* Offer50FirstUniqChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer50FirstUniqChar.swift; sourceTree = "<group>"; };
+		E840C7AA278C9506007BFB33 /* Offer32LevelOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer32LevelOrder.swift; sourceTree = "<group>"; };
+		E840C7AC278C98CF007BFB33 /* Offer10Fib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer10Fib.swift; sourceTree = "<group>"; };
+		E840C7AE278C9B2C007BFB33 /* Offer10NumWays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer10NumWays.swift; sourceTree = "<group>"; };
+		E840C7B0278C9EE8007BFB33 /* Offer63MaxProfit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer63MaxProfit.swift; sourceTree = "<group>"; };
 		E85F2AA91F8E58DF0020A2FF /* 0002AddTwo Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "0002AddTwo Numbers.swift"; sourceTree = "<group>"; };
 		E85F2AAB1F8E58DF0020A2FF /* 0001TwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 0001TwoSum.swift; sourceTree = "<group>"; };
 		E86A3F901F28DF51007D44F2 /* Practice.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practice.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,6 +120,7 @@
 		E87A7CBE2784AA25009A9511 /* 1576ModifyString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1576ModifyString.swift; sourceTree = "<group>"; };
 		E889654F2768E7D5002DAF94 /* 0630ScheduleCourse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0630ScheduleCourse.swift; sourceTree = "<group>"; };
 		E8B83878276C472F005DCEC1 /* 1518NumWaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1518NumWaterBottles.swift; sourceTree = "<group>"; };
+		E8C7A81D278CA279001A31C3 /* Offer26IsSubStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer26IsSubStructure.swift; sourceTree = "<group>"; };
 		E8D5CA54276798DC00F6A63A /* Offer47MaxValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer47MaxValue.swift; sourceTree = "<group>"; };
 		E8E9EA2A1F2B62EB00B522B6 /* LinkNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkNode.swift; sourceTree = "<group>"; };
 		E8EBE5BE2757C03B00CE5FAD /* 0400FindNthDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 0400FindNthDigit.swift; sourceTree = "<group>"; };
@@ -215,6 +231,14 @@
 				E840C79C2789E10A007BFB33 /* 0103ZigzagLevelOrder.swift */,
 				E840C79E2789E71A007BFB33 /* 0092ReverseBetween.swift */,
 				E840C7A2278B37B6007BFB33 /* 1629SlowestKey.swift */,
+				E840C7A4278C85CD007BFB33 /* 0306IsAdditiveNumber.swift */,
+				E840C7A6278C8B78007BFB33 /* Offer11MinArray.swift */,
+				E840C7A8278C9313007BFB33 /* Offer50FirstUniqChar.swift */,
+				E840C7AA278C9506007BFB33 /* Offer32LevelOrder.swift */,
+				E840C7AC278C98CF007BFB33 /* Offer10Fib.swift */,
+				E840C7AE278C9B2C007BFB33 /* Offer10NumWays.swift */,
+				E840C7B0278C9EE8007BFB33 /* Offer63MaxProfit.swift */,
+				E8C7A81D278CA279001A31C3 /* Offer26IsSubStructure.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -307,6 +331,8 @@
 				E8EBE5BF2757C03B00CE5FAD /* 0400FindNthDigit.swift in Sources */,
 				E87A7CBD27849C74009A9511 /* 0031NextPermutation.swift in Sources */,
 				E8EBE5CB275B57DF00CE5FAD /* Offer45MinNumber.swift in Sources */,
+				E8C7A81E278CA279001A31C3 /* Offer26IsSubStructure.swift in Sources */,
+				E840C7A7278C8B78007BFB33 /* Offer11MinArray.swift in Sources */,
 				E8F8402D277848D8002CA50B /* 0022GenerateParenthesis.swift in Sources */,
 				E86EBE07278602E9002A40A5 /* 0104LevelOrder.swift in Sources */,
 				E85F2AAE1F8E58DF0020A2FF /* 0001TwoSum.swift in Sources */,
@@ -323,7 +349,9 @@
 				E823B04B2757BB5C007FE15C /* 1446MaxPower.swift in Sources */,
 				E8FF7AE827874A6900D0252A /* 1614MaxDepth.swift in Sources */,
 				E840C7A12789E729007BFB33 /* ListNode.swift in Sources */,
+				E840C7B1278C9EE8007BFB33 /* Offer63MaxProfit.swift in Sources */,
 				E823B039274FD3FB007FE15C /* 0005LongestPalindrome.swift in Sources */,
+				E840C7AB278C9506007BFB33 /* Offer32LevelOrder.swift in Sources */,
 				E823B045274FFD52007FE15C /* StringExtension.swift in Sources */,
 				E823B033274E8665007FE15C /* 0077Combine.swift in Sources */,
 				E85F2AAC1F8E58DF0020A2FF /* 0002AddTwo Numbers.swift in Sources */,
@@ -334,10 +362,12 @@
 				E8EBE5D52760FB2500CE5FAD /* 0689MaxSumOfThreeSubarrays.swift in Sources */,
 				E86F2C4A2770D2E9009F54D0 /* 0475FindRadius.swift in Sources */,
 				E8D5CA55276798DC00F6A63A /* Offer47MaxValue.swift in Sources */,
+				E840C7A9278C9313007BFB33 /* Offer50FirstUniqChar.swift in Sources */,
 				E8EBE5C32757E72D00CE5FAD /* 506FindRelativeRanks.swift in Sources */,
 				E87A7CB52781F761009A9511 /* 0390LastRemaining.swift in Sources */,
 				E80F5150277A12080036574F /* 0825NumFriendRequests.swift in Sources */,
 				E8F8403727789958002CA50B /* 0146LRUCache.swift in Sources */,
+				E840C7A5278C85CD007BFB33 /* 0306IsAdditiveNumber.swift in Sources */,
 				E86EBE0927873673002A40A5 /* 0071SimplifyPath.swift in Sources */,
 				E840C79D2789E10A007BFB33 /* 0103ZigzagLevelOrder.swift in Sources */,
 				E87A7CB72782FE5D009A9511 /* 1185DayOfTheWeek.swift in Sources */,
@@ -345,6 +375,7 @@
 				E86EBE0B278738E7002A40A5 /* 0199RightSideView.swift in Sources */,
 				E87A7CAB277CADF2009A9511 /* 1995CountQuadruplets.swift in Sources */,
 				E8EBE5C52759151100CE5FAD /* Offer34PathSum.swift in Sources */,
+				E840C7AD278C98CF007BFB33 /* Offer10Fib.swift in Sources */,
 				E87A7CAF27802C30009A9511 /* 2022Construct2DArray.swift in Sources */,
 				E8EBE5D3275E626E00CE5FAD /* Offer30MinStack.swift in Sources */,
 				E87A7CB92783418F009A9511 /* Offer04FindNumberIn2DArray.swift in Sources */,
@@ -355,6 +386,7 @@
 				E87A7CBF2784AA25009A9511 /* 1576ModifyString.swift in Sources */,
 				E8B83879276C472F005DCEC1 /* 1518NumWaterBottles.swift in Sources */,
 				E8F84031277866C9002CA50B /* 0011MaxArea.swift in Sources */,
+				E840C7AF278C9B2C007BFB33 /* Offer10NumWays.swift in Sources */,
 				E87A7CB3278059D9009A9511 /* 0056Merge.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
