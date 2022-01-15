@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution1185 {
     func dayOfTheWeek(_ day: Int, _ month: Int, _ year: Int) -> String {
         let today = "\(year)-\(month)-\(day)"
         let formatter  = DateFormatter()
