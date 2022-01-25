@@ -5,9 +5,9 @@
 //  Created by Silence on 2022/1/20.
 //
 
-import Foundation
+import XCTest
 
-class Solution {
+class SolutionOffer57 {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         guard !nums.isEmpty else {
             return []
