@@ -45,18 +45,15 @@ class Solution143 {
     func mergeNodeList(_ node1: ListNode?, _ node2: ListNode?) {
         var before = node1
         var after = node2
-        var resNode: ListNode? = ListNode(-1)
-        
         while before != nil && after != nil {
-            resNode?.next = before
-            resNode = resNode?.next
-            before = before?.next
+            let tmp1 = before?.next
+            let tmp2 = after?.next
             
-            resNode?.next = after
-            resNode = resNode?.next
-            after = after?.next
+            before?.next = after
+            after?.next = tmp1
+            
+            before = tmp1
+            after = tmp2
         }
-        
-        resNode?.next = before == nil ? after : before
     }
 }
