@@ -17,5 +17,3 @@ func tailFactorial(_ n: Int, _ sum: Int) -> Int{
 func factorial(_ n: Int) -> Int {
     return tailFactorial(n, 1)
 }
-
-factorial(5) // 120
