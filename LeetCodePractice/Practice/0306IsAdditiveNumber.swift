@@ -7,7 +7,7 @@
 
 import XCTest
 
-class Solution309 {
+class Solution306 {
     func isAdditiveNumber(_ num: String) -> Bool {
         let numArray = Array(num)
         // 小于三位一定不是
@@ -67,7 +67,7 @@ class Solution309 {
     }
 }
 
-class Solution309Test: XCTestCase {
+class Solution306Test: XCTestCase {
     func testFindNumberIn2DArray() {
         let num = "199111992"
         let ans = Solution309().isAdditiveNumber(num)
