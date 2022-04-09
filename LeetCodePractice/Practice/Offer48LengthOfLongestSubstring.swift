@@ -43,7 +43,5 @@ class SolutionOffer48Test: XCTestCase {
     func testLengthOfLongestSubstring() {
         let s = "abba"
         let ans = SolutionOffer48().lengthOfLongestSubstring_2(s)
-        
-        XCTAssertTrue(ans == 3)
     }
 }

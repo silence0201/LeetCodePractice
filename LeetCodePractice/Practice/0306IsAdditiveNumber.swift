@@ -70,7 +70,7 @@ class Solution306 {
 class Solution306Test: XCTestCase {
     func testFindNumberIn2DArray() {
         let num = "199111992"
-        let ans = Solution309().isAdditiveNumber(num)
+        let ans = Solution306().isAdditiveNumber(num)
         
         XCTAssertTrue(ans)
     }
