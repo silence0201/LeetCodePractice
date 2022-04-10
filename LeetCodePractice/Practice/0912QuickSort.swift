@@ -49,4 +49,34 @@ class Solution912 {
         
         return nums
     }
+    
+    func quickSort2(_ nums: [Int]) -> [Int] {
+        guard nums.count > 0 else {
+            return []
+        }
+        var res:[Int] = []
+        
+        var left:[Int] = []
+        var right:[Int] = []
+        
+        let middle = nums.count >> 1
+        let pivot = nums[middle]
+        
+        for num in nums {
+            if (num < pivot) {
+                left.append(num)
+            } else {
+                right.append(num)
+            }
+        }
+        
+        let leftResult = quickSort2(left)
+        let rightResult = quickSort2(right)
+        
+        res.append(contentsOf: leftResult)
+        res.append(pivot)
+        res.append(contentsOf: rightResult)
+        
+        return res
+    }
 }
